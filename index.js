@@ -1,0 +1,1 @@
+document.write("ahoj from document write");
