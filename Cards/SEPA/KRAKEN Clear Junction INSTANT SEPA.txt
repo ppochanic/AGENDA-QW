@@ -1,0 +1,15 @@
+Payward Ltd.
+
+Address
+One London Wall, London, EC2Y 5EB, UK
+IBAN
+GB60 CLJU 0099 7129 9001 60
+Bank name
+Clear Junction Limited
+BIC/SWIFT
+CLJUGB21
+Bank/Branch address
+15 Kingsway, London WC2B 6UN, UK
+Reference
+REQUIRED
+AA51 N84G MKVB ZO3I kraken.com
